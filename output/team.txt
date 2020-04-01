@@ -1,9 +1,0 @@
-question name answer pn
-question role answer Manager
-question roleInformation answer 454333333
-question name answer hl
-question role answer Engineer
-question roleInformation answer ghpn
-question name answer gf
-question role answer Intern
-question roleInformation answer ga tech
